@@ -5,4 +5,4 @@ This script will install OTRS and MariaDB, also will do the basic configuration 
 - CentOS 7
 
 # Output Example
-![Install OTRS output example](https://i.imgur.com/HiuWJS3.png)
+![Install OTRS output example](/images/ss_install.png)
